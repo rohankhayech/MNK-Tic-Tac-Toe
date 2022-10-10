@@ -1,3 +1,7 @@
+/*
+ * Copyright (c) 2019 Rohan Khayech
+ */
+
 #ifndef GAME_H
 #define GAME_H
 

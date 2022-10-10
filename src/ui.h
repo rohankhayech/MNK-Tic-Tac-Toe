@@ -1,3 +1,7 @@
+/*
+ * Copyright (c) 2019 Rohan Khayech
+ */
+
 #ifndef UI_H
 #define UI_H
 

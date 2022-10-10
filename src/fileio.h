@@ -1,3 +1,7 @@
+/*
+ * Copyright (c) 2019 Rohan Khayech
+ */
+
 #ifndef FILE_H
 #define FILE_H
 

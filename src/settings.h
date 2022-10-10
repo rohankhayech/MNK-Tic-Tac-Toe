@@ -1,3 +1,7 @@
+/*
+ * Copyright (c) 2019 Rohan Khayech
+ */
+
 #ifndef SETTINGS_H
 #define SETTINGS_H
 

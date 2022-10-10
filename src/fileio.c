@@ -1,4 +1,6 @@
-/* Parts of this file adapted from code previously submitted for UCP Prac 6 Sem 2 2019 - Rohan Khayech*/
+/*
+ * Copyright (c) 2019 Rohan Khayech
+ */
 
 #include <stdio.h>
 #include <string.h>

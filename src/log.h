@@ -1,3 +1,7 @@
+/*
+ * Copyright (c) 2019 Rohan Khayech
+ */
+
 #ifndef LOG_H
 #define LOG_H
 

@@ -1,3 +1,7 @@
+/*
+ * Copyright (c) 2019 Rohan Khayech
+ */
+
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
